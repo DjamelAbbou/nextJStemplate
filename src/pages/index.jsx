@@ -1,3 +1,5 @@
 export default function HomePage() {
-  return <div>Hi</div>;
+  return (
+    <div className="h-screen bg-custom-background px-16 pt-8 text-white"></div>
+  );
 }
